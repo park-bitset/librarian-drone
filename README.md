@@ -1,4 +1,4 @@
-# Librarian Dron
+# Librarian Drone
 
 "Librarian Dron" is a dron that manages your books and bookshelves.  
 It consists of three parts: Drone Controller, Book Database, User Interface.
